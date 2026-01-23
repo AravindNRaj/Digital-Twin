@@ -1,3 +1,14 @@
 # Digital-Twin
 One of the biggest problem in Stage 4 cancer is it's Drug Resistance. If you hit a tumor with a high dose, you kill the sensitive cells but leave the "Super-Resistant" ones to take over. This is a mathematical model which simulates Adaptive Therapy.
 This project uses the ODE's to mathematically model the resistant and sensitive cells in Stage 4 tumor.
+This project simulates adaptive cancer therapy.
+
+Question:
+Can keeping drug-sensitive cells alive suppress resistant cells?
+
+Approach:
+Simple ODE model with two populations and a drug.
+
+Status:
+Not working yet.
+
